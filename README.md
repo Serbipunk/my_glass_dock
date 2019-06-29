@@ -1,2 +1,7 @@
-# my_glass_dock
-decoration design of my house in Hangzhou
+# 杭州小屋设计
+
+装修的第一个小屋，很小。
+
+是大楼里“迎風竖起六十層簧管”里的一个小格子。
+
+有一些木工设计，一些墙面设计，以及参考资料。会在这里储存，也欢迎大家参考。
